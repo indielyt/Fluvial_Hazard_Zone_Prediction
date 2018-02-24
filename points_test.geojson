@@ -1,12 +1,12 @@
 {"type": "FeatureCollection", "features": [
-{"geometry": {"coordinates": [-105.27, 40.221], "type": "Point"}, "properties": {"2011topo": 5332.240234000001, "ground_delta": -0.13525399999999999}, "type": "Feature"}
-,{"geometry": {"coordinates": [-105.27, 40.221], "type": "Point"}, "properties": {"2011topo": 5332.27002, "ground_delta": -0.12451199999999998}, "type": "Feature"}
-,{"geometry": {"coordinates": [-105.27, 40.221], "type": "Point"}, "properties": {"2011topo": 5332.229981, "ground_delta": -0.135742}, "type": "Feature"}
-,{"geometry": {"coordinates": [-105.27, 40.221], "type": "Point"}, "properties": {"2011topo": 5332.330078, "ground_delta": -0.112793}, "type": "Feature"}
-,{"geometry": {"coordinates": [-105.27, 40.221], "type": "Point"}, "properties": {"2011topo": 5332.290039, "ground_delta": -0.10839800000000001}, "type": "Feature"}
-,{"geometry": {"coordinates": [-105.27, 40.221], "type": "Point"}, "properties": {"2011topo": 5332.259765999999, "ground_delta": -0.117676}, "type": "Feature"}
-,{"geometry": {"coordinates": [-105.27, 40.221], "type": "Point"}, "properties": {"2011topo": 5332.229981, "ground_delta": -0.134766}, "type": "Feature"}
-,{"geometry": {"coordinates": [-105.27, 40.221], "type": "Point"}, "properties": {"2011topo": 5332.189941, "ground_delta": -0.15673800000000002}, "type": "Feature"}
-,{"geometry": {"coordinates": [-105.27, 40.221], "type": "Point"}, "properties": {"2011topo": 5332.330078, "ground_delta": -0.12353499999999999}, "type": "Feature"}
-,{"geometry": {"coordinates": [-105.27, 40.221], "type": "Point"}, "properties": {"2011topo": 5332.330078, "ground_delta": -0.109375}, "type": "Feature"}
+{"geometry": {"coordinates": [-105.2702912, 40.22089924], "type": "Point"}, "properties": {"2011topo": 5332.240234000001, "ground_delta": -0.13525399999999999}, "type": "Feature"}
+,{"geometry": {"coordinates": [-105.2703019, 40.22089103], "type": "Point"}, "properties": {"2011topo": 5332.27002, "ground_delta": -0.12451199999999998}, "type": "Feature"}
+,{"geometry": {"coordinates": [-105.2702912, 40.220891], "type": "Point"}, "properties": {"2011topo": 5332.229981, "ground_delta": -0.135742}, "type": "Feature"}
+,{"geometry": {"coordinates": [-105.2703234, 40.22088283], "type": "Point"}, "properties": {"2011topo": 5332.330078, "ground_delta": -0.112793}, "type": "Feature"}
+,{"geometry": {"coordinates": [-105.2703127, 40.22088281], "type": "Point"}, "properties": {"2011topo": 5332.290039, "ground_delta": -0.10839800000000001}, "type": "Feature"}
+,{"geometry": {"coordinates": [-105.270302, 40.22088279], "type": "Point"}, "properties": {"2011topo": 5332.259765999999, "ground_delta": -0.117676}, "type": "Feature"}
+,{"geometry": {"coordinates": [-105.2702912, 40.22088277], "type": "Point"}, "properties": {"2011topo": 5332.229981, "ground_delta": -0.134766}, "type": "Feature"}
+,{"geometry": {"coordinates": [-105.2702805, 40.22088275], "type": "Point"}, "properties": {"2011topo": 5332.189941, "ground_delta": -0.15673800000000002}, "type": "Feature"}
+,{"geometry": {"coordinates": [-105.270345, 40.22087464], "type": "Point"}, "properties": {"2011topo": 5332.330078, "ground_delta": -0.12353499999999999}, "type": "Feature"}
+,{"geometry": {"coordinates": [-105.2703342, 40.22087462], "type": "Point"}, "properties": {"2011topo": 5332.330078, "ground_delta": -0.109375}, "type": "Feature"}
 ]}
